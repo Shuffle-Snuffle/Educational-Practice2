@@ -1,0 +1,28 @@
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Snuffle\source\repos\EducationalPractice2.1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Snuffle\Desktop\Новая папка\EducationalPractice2.1\Task1\obj\Debug\net8.0\ref\Task1.dll

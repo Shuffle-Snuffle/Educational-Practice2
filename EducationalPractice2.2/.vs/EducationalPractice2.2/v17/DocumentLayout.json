@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3B7D36-C911-4D69-946B-DF0CECAFD519}|Task5\\Task5.csproj|c:\\users\\snuffle\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\educationalpractice2.2\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3B7D36-C911-4D69-946B-DF0CECAFD519}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D7C58-1218-4F60-BA66-E16543341CC9}|Task4\\Task4.csproj|c:\\users\\snuffle\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\educationalpractice2.2\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D7C58-1218-4F60-BA66-E16543341CC9}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F3F3D8-4E24-4E77-80A7-E8FCB320E8C5}|Task3\\Task3.csproj|c:\\users\\snuffle\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\educationalpractice2.2\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F3F3D8-4E24-4E77-80A7-E8FCB320E8C5}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFA91F6-0D5D-421C-89C2-5C9849460A56}|Task2\\Task2.csproj|c:\\users\\snuffle\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\educationalpractice2.2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFA91F6-0D5D-421C-89C2-5C9849460A56}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98ED546F-667C-4627-9AC9-4F09822A4721}|Task1\\Task1.csproj|c:\\users\\snuffle\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\educationalpractice2.2\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98ED546F-667C-4627-9AC9-4F09822A4721}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAH0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:57:33.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:57:34.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:57:34.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:57:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\EducationalPractice2.2\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:57:34.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

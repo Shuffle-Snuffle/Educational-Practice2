@@ -1,0 +1,42 @@
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\bin\Debug\net8.0\Task5.exe
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\bin\Debug\net8.0\Task5.deps.json
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\bin\Debug\net8.0\Task5.dll
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\bin\Debug\net8.0\Task5.pdb
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\Task5.dll
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\refint\Task5.dll
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\Task5.pdb
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+C:\Users\Snuffle\source\repos\PracticeWork2\Task5\obj\Debug\net8.0\ref\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\bin\Debug\net8.0\Task5.exe
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\bin\Debug\net8.0\Task5.deps.json
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\bin\Debug\net8.0\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\bin\Debug\net8.0\Task5.pdb
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\refint\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\Task5.pdb
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+C:\Users\Snuffle\Desktop\Практика 2\PracticeWork2\Task5\obj\Debug\net8.0\ref\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\bin\Debug\net8.0\Task5.exe
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\bin\Debug\net8.0\Task5.deps.json
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\bin\Debug\net8.0\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\bin\Debug\net8.0\Task5.pdb
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\refint\Task5.dll
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\Task5.pdb
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+C:\Users\Snuffle\Desktop\Практика 2\EducationalPractice2.2\Task5\obj\Debug\net8.0\ref\Task5.dll
